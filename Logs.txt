@@ -1,0 +1,49 @@
+Program started
+Pier was created, what is number of boats and water bikes?
+Boats 2
+Water Bikes: 3
+Serializing in file oiFile.csv
+Serializing Success
+Deserializing
+Deserializng success
+Program endedProgram started
+Pier was created, what is number of boats and water bikes?
+Boats 3
+Water Bikes: 3
+Serializing in file oiFile.csv
+Serializing Success
+Deserializing
+Deserializng success
+Program endedProgram started
+Pier was created, what is number of boats and water bikes?
+Boats 3
+Water Bikes: 3
+Serializing in file oiFile.csv
+Serializing Success
+Deserializing
+Deserializng success
+Program endedProgram started
+Pier was created, what is number of boats and water bikes?
+Boats 3
+Water Bikes: 3
+Serializing in file oiFile.csv
+Serializing Success
+Deserializing
+Deserializng success
+Program endedProgram started
+Pier was created, what is number of boats and water bikes?
+Boats 3
+Water Bikes: 3
+Serializing in file oiFile.csv
+Serializing Success
+Deserializing
+Deserializng success
+Program endedProgram started
+Pier was created, what is number of boats and water bikes?
+Boats 3
+Water Bikes: 3
+Serializing in file oiFile.csv
+java.io.IOException
+Deserializing
+java.io.IOException
+Program ended

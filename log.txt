@@ -1,0 +1,17 @@
+
+окт. 14, 2021 10:41:41 PM com.company.MyLogger log
+INFO: Pier was created, what is number of boats and water bikes?
+окт. 14, 2021 10:41:44 PM com.company.MyLogger log
+INFO: Boats 3
+окт. 14, 2021 10:41:44 PM com.company.MyLogger log
+INFO: Water Bikes: 3
+окт. 14, 2021 10:41:44 PM com.company.MyLogger log
+INFO: Serializing in file oiFile.csv
+окт. 14, 2021 10:41:49 PM com.company.MyLogger log
+INFO: Serializing Success
+окт. 14, 2021 10:41:49 PM com.company.MyLogger log
+INFO: Deserializing
+окт. 14, 2021 10:41:53 PM com.company.MyLogger log
+INFO: Deserializng success
+окт. 14, 2021 10:41:53 PM com.company.MyLogger log
+INFO: Deserializing
